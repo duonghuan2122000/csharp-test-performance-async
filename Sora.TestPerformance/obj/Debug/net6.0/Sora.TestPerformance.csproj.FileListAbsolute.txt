@@ -1,0 +1,15 @@
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\bin\Debug\net6.0\Sora.TestPerformance.exe
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\bin\Debug\net6.0\Sora.TestPerformance.deps.json
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\bin\Debug\net6.0\Sora.TestPerformance.runtimeconfig.json
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\bin\Debug\net6.0\Sora.TestPerformance.dll
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\bin\Debug\net6.0\Sora.TestPerformance.pdb
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\obj\Debug\net6.0\Sora.TestPerformance.csproj.AssemblyReference.cache
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\obj\Debug\net6.0\Sora.TestPerformance.GeneratedMSBuildEditorConfig.editorconfig
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\obj\Debug\net6.0\Sora.TestPerformance.AssemblyInfoInputs.cache
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\obj\Debug\net6.0\Sora.TestPerformance.AssemblyInfo.cs
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\obj\Debug\net6.0\Sora.TestPerformance.csproj.CoreCompileInputs.cache
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\obj\Debug\net6.0\Sora.TestPerformance.dll
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\obj\Debug\net6.0\refint\Sora.TestPerformance.dll
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\obj\Debug\net6.0\Sora.TestPerformance.pdb
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\obj\Debug\net6.0\Sora.TestPerformance.genruntimeconfig.cache
+E:\MISA\TestPerformance\Sora.TestPerformance\Sora.TestPerformance\obj\Debug\net6.0\ref\Sora.TestPerformance.dll
